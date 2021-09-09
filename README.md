@@ -12,7 +12,7 @@
 
 ## License
 Free for personal use. 
-Please put my name as in Credits.
+Please put my name in Credits.
 
 ## Installation
 pip install habit_tracker12345
