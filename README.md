@@ -62,7 +62,7 @@ User can create habits, checkoff task, manage, or analyse habits.
         [X] Enter X to EXIT
    
    If Period change, then Start_Date will be reset to today, and Due_Date will be today + 1 for Daily, and become today + 7 for Weekly.
-   Streak, Max_Streak, and Break will remain the same, and will be added or reset accoring to new Period.
+   Streak, Max_Streak, and Break will remain the same, and will be added or reset according to new Period.
         
 4. Analyse sub menu :
 
