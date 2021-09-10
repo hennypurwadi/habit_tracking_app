@@ -39,9 +39,7 @@ After that, Main Menu will appear :
         [3] Enter 3 to MANAGE (EDIT/ DELETE) HABIT.
         [4] Enter 4 to ANALYSE YOUR HABIT.
         [Q] Enter q to quit.
-
-        YOUR CHOICE :  
-
+      
 User can create habits, checkoff task, manage, or analyse habits.
 
 1. Create New Habit
