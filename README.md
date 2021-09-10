@@ -26,8 +26,20 @@ https://github.com/hennypurwadi/habit_tracker12345
 python -m pytest test_habit_tracker12345.py
 
 ## How To Use
-In the beginning there is one question appear: USE PREDEFINED HABITS? Y/N :  
-User is free to choose between start from scratch or usepredefined habits as examples.
+In the beginning there is one question appear: 
+        USE PREDEFINED HABITS? Y/N :  
+User is free to choose between start from scratch or use predefined habits as examples.
+
+After that, Main Menu will appear :
+
+        [1] Enter 1 to CREATE NEW HABIT.
+        [2] Enter 2 to COMPLETE TASKS.
+        [3] Enter 3 to MANAGE (EDIT/ DELETE) HABIT.
+        [4] Enter 4 to ANALYSE YOUR HABIT.
+        [Q] Enter q to quit.
+
+        YOUR CHOICE :  
+
 User can choose between daily or weekly habits.
 If user checkoff the task before the due date, Streak will be added by 1, as well as Max_Streak.
 Streak will be increasing if user checkoff the task within period between Start_Date and Due_Date.
