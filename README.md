@@ -44,14 +44,14 @@ After that, Main Menu will appear :
 
 User can create habits, checkoff task, manage, or analyse habits.
 
-1.Create New Habit
-For Habit creation, user can choose the Period between daily or weekly habits.
+1. Create New Habit
+   For Habit creation, user can choose the Period between daily or weekly habits.
 
-2.Complete Task
-If user complete task/ checkoff the task before the due date, Streak will be added by 1, as well as Max_Streak.
-Streak will be increasing if user checkoff the task within period between Start_Date and Due_Date.
-If user didn't checkoff within period, Streak will be reset to zero, but Max_Streak still remain the same, and Break will be added by 1.
-If Streak > Max_Streak, then Max_Streak will be changed become = Streak.
+2. Complete Task
+   If user complete task/ checkoff the task before the due date, Streak will be added by 1, as well as Max_Streak.
+   Streak will be increasing if user checkoff the task within period between Start_Date and Due_Date.
+   If user didn't checkoff within period, Streak will be reset to zero, but Max_Streak still remain the same, and Break will be added by 1.
+   If Streak > Max_Streak, then Max_Streak will be changed become = Streak.
 
 3.Manage(Edit/Delete) sub menu :
 
@@ -60,3 +60,16 @@ If Streak > Max_Streak, then Max_Streak will be changed become = Streak.
         [3] Enter 3 to EDIT HABIT'S PERIOD TO DAILY
         [4] Enter 4 to EDIT HABIT'S PERIOD TO WEEKLY
         [X] Enter X to EXIT
+        
+4.Analyse sub menu :
+
+        [1] Enter 1 to DISPLAY ALL HABITS
+        [2] Enter 2 to DISPLAY ALL DAILY HABITS
+        [3] Enter 3 to DISPLAY ALL WEEKLY HABITS.
+        [4] Enter 4 to DISPLAY LONGEST STREAK HABITS.
+        [5] Enter 5 to DISPLAY LONGEST STREAK OF DAILY HABIT.
+        [6] Enter 6 to DISPLAY LONGEST STREAK OF WEEKLY HABIT.
+        [7] Enter 7 to DISPLAY LONGEST STREAK OF A GIVEN HABIT.
+        [8] Enter 8 to DISPLAY HABIT YOU STRUGGLED THE MOST.
+        [X] Enter X to EXIT.
+
