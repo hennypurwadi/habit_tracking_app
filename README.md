@@ -27,6 +27,7 @@ python -m pytest test_habit_tracker12345.py
 
 ## How To Use
 In the beginning there is one question appear:  
+        
         USE PREDEFINED HABITS? Y/N : 
         
 User is free to choose between start from scratch or use predefined habits as examples.
@@ -41,10 +42,21 @@ After that, Main Menu will appear :
 
         YOUR CHOICE :  
 
-User can choose between daily or weekly habits.
-If user checkoff the task before the due date, Streak will be added by 1, as well as Max_Streak.
+User can create habits, checkoff task, manage, or analyse habits.
+
+1.Create New Habit
+For Habit creation, user can choose the Period between daily or weekly habits.
+
+2.Complete Task
+If user complete task/ checkoff the task before the due date, Streak will be added by 1, as well as Max_Streak.
 Streak will be increasing if user checkoff the task within period between Start_Date and Due_Date.
 If user didn't checkoff within period, Streak will be reset to zero, but Max_Streak still remain the same, and Break will be added by 1.
 If Streak > Max_Streak, then Max_Streak will be changed become = Streak.
-User can 
 
+3.Manage(Edit/Delete) sub menu :
+
+        [1] Enter 1 to DELETE HABIT
+        [2] Enter 2 to EDIT HABIT'S TITLE
+        [3] Enter 3 to EDIT HABIT'S PERIOD TO DAILY
+        [4] Enter 4 to EDIT HABIT'S PERIOD TO WEEKLY
+        [X] Enter X to EXIT
