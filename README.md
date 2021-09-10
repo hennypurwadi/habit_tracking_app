@@ -17,10 +17,10 @@ Please put my name in Credits.
 ## Installation
 pip install -i https://test.pypi.org/simple/ habit-tracker12345
 
-## Link :
-pypi:
+## Link(pypi):
 https://test.pypi.org/project/habit-tracker12345/
-github:
+
+## Link(github):
 https://github.com/hennypurwadi/habit_tracker12345
 
 
