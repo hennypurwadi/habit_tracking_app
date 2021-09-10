@@ -22,10 +22,10 @@ https://test.pypi.org/project/habit-tracker12345/
 ## Link(github)
 https://github.com/hennypurwadi/habit_tracker12345
 
-## To test, from command prompt type
+## To test, from command prompt type :
 python -m pytest test_habit_tracker12345.py
 
-## Tutorial How To Use this app  
+## Tutorial how to use 
 In the beginning there is one question appear:  
         
         USE PREDEFINED HABITS? Y/N : 
