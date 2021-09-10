@@ -14,5 +14,10 @@
 Free for personal use. 
 Please put my name in Credits.
 
+## Link :
+https://test.pypi.org/project/habit-tracker12345/
+
 ## Installation
-pip install habit_tracker12345
+pip install -i https://test.pypi.org/simple/ habit-tracker12345
+
+
