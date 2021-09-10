@@ -26,8 +26,9 @@ https://github.com/hennypurwadi/habit_tracker12345
 python -m pytest test_habit_tracker12345.py
 
 ## How To Use
-In the beginning there is one question appear: 
-        USE PREDEFINED HABITS? Y/N :  
+In the beginning there is one question appear:  
+        USE PREDEFINED HABITS? Y/N : 
+        
 User is free to choose between start from scratch or use predefined habits as examples.
 
 After that, Main Menu will appear :
