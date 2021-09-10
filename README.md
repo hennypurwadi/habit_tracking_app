@@ -25,7 +25,7 @@ https://github.com/hennypurwadi/habit_tracker12345
 ## To test, from command prompt type
 python -m pytest test_habit_tracker12345.py
 
-## How To Use
+## Tutorial about How To Use this app  
 In the beginning there is one question appear:  
         
         USE PREDEFINED HABITS? Y/N : 
@@ -60,6 +60,9 @@ User can create habits, checkoff task, manage, or analyse habits.
         [3] Enter 3 to EDIT HABIT'S PERIOD TO DAILY
         [4] Enter 4 to EDIT HABIT'S PERIOD TO WEEKLY
         [X] Enter X to EXIT
+   
+   If Period change, then Start_Date will be reset to today, and Due_Date will be today + 1 for Daily, and become today + 7 for Weekly.
+   Streak, Max_Streak, and Break will remain the same, and will be added or reset accoring to new Period.
         
 4. Analyse sub menu :
 
@@ -73,3 +76,4 @@ User can create habits, checkoff task, manage, or analyse habits.
         [8] Enter 8 to DISPLAY HABIT YOU STRUGGLED THE MOST.
         [X] Enter X to EXIT.
 
+  User can analyse history using this menu.
