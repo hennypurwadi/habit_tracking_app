@@ -53,7 +53,7 @@ User can create habits, checkoff task, manage, or analyse habits.
    If user didn't checkoff within period, Streak will be reset to zero, but Max_Streak still remain the same, and Break will be added by 1.
    If Streak > Max_Streak, then Max_Streak will be changed become = Streak.
 
-3.Manage(Edit/Delete) sub menu :
+3. Manage(Edit/Delete) sub menu :
 
         [1] Enter 1 to DELETE HABIT
         [2] Enter 2 to EDIT HABIT'S TITLE
@@ -61,7 +61,7 @@ User can create habits, checkoff task, manage, or analyse habits.
         [4] Enter 4 to EDIT HABIT'S PERIOD TO WEEKLY
         [X] Enter X to EXIT
         
-4.Analyse sub menu :
+4. Analyse sub menu :
 
         [1] Enter 1 to DISPLAY ALL HABITS
         [2] Enter 2 to DISPLAY ALL DAILY HABITS
