@@ -43,10 +43,12 @@ After that, Main Menu will appear :
 User can create habits, checkoff task, manage, or analyse habits.
 
 1. Create New Habit
-   For Habit creation, user can choose the Period between daily or weekly habits.
+   For Habit creation, user need to input Habit's Title and Period. There are 2 Period options, between daily or weekly habits.
 
 2. Complete Task
    If user complete task/ checkoff the task before the due date, Streak will be added by 1, as well as Max_Streak.
+   Start_Date and Due_date will be renewed.
+   
    Streak will be increasing if user checkoff the task within period between Start_Date and Due_Date.
    If user didn't checkoff within period, Streak will be reset to zero, but Max_Streak still remain the same, and Break will be added by 1.
    If Streak > Max_Streak, then Max_Streak will be changed become = Streak.
@@ -75,3 +77,4 @@ User can create habits, checkoff task, manage, or analyse habits.
         [X] Enter X to EXIT.
 
   User can analyse history using this menu.
+  User need to input a given/chosen habit to display the longest streak (Max_Streak) of the choice.
