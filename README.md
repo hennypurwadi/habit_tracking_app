@@ -22,8 +22,11 @@ https://test.pypi.org/project/habit-tracker12345/
 ## Link(github)
 https://github.com/hennypurwadi/habit_tracker12345
 
-## To test, from command prompt type :
-python -m pytest test_habit_tracker12345.py
+## Tested with pytest in 12th Sept 2021
+Assert list date in this test has been set up with specific test date, 12th September 2021.
+For different date, need to adjust dates following the assert list.
+test folder : test_habit_tracker.py
+From command prompt type: python -m pytest test_habit_tracker12345_t.py
 
 ## Tutorial how to use 
 In the beginning there is one question appear:  
