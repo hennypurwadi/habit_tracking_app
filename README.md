@@ -25,7 +25,7 @@ https://github.com/hennypurwadi/habit_tracker12345
 ## Tested with pytest in 12th Sept 2021
 Assert list date in this test has been set up with specific test date, 12th September 2021.
 For different date, need to adjust dates following the assert list.
-test folder : test_habit_tracker.py
+Test folder : test_habit_tracker.py
 From command prompt type: python -m pytest test_habit_tracker12345_t.py
 
 ## Tutorial how to use 
