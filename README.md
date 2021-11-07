@@ -15,6 +15,7 @@ Please put my name in Credits.
 
 ## Installation
 pip install -i https://test.pypi.org/simple/ habit-tracker12345
+pip install pytest
 
 ## Link(pypi)
 https://test.pypi.org/project/habit-tracker12345/
